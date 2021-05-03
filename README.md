@@ -25,7 +25,7 @@ Independent variable: Windspeed, Humidity, MaxTemperature, MinTemperature, Press
 4: SMOTE + ENN (hybrid)
 
 # ML Models
-- 4 Models are run on each of the train data.
+Four different Models are run on each of the train data.\
 1: Logistic Regression \
 2: Naive Bayes \
 3: Random Forest \
