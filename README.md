@@ -36,4 +36,10 @@ Four different Models are run on each of the train data.\
 2: Accuracy, Precision, Recall\
 3: ROC AUC
 
+# Conclusion:
+- Oversampling or undersampling significantly improved Recall at the cost of worse Precision
+- Overall performance did not increase significantly.
+- Random Forest Model with 1000 trees performs best in general. XGBoost is extremely close. Naive Bayes performs worst.
+- Sampling techniques may have bigger benefit when applied to more extreme cases of class imbalance. 
+
 
